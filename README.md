@@ -11,7 +11,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://www.google.com/search?sca_esv=559951443&sxsrf=AB5stBhlGUGHF058Hi_qahfnEJ6WaoKwBg:1692938297783&q=tailwindcss&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjDr_bO_vaAAxU03TgGHfy4D_4Q0pQJegQIChAB&biw=1366&bih=689&dpr=1#imgrc=XubAGOAQZNAbPM&imgdii=HyPtkd_dMVMdPM" alt='tailwindcss' width="40" height="40" />
+  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+
 
  </p>
 
