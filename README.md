@@ -19,6 +19,15 @@
           </li>
         </ul>
       </div>
+<div>
+        <h1>📫  How to Reach Me</h1>
+        <div>
+          <p align="left">
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+          </p>
+        </div>
+      </div>
+
 
 - 📫 How to reach me limbujenish24@gmail.com
 
