@@ -1,7 +1,25 @@
-<h1 align="center">About me</h1>
-<h3 align="center">A passionate Web developer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JenishSambahamphe24&label=Profile%20views&color=0e75b6&style=flat" alt="JenishSambahamphe24" /> </p>
+  <div>
+        <h1>About me</h1>
+        <ul>
+          <li>
+            <p>
+              Hi, I'm a front-end developer with a focus on creating user-friendly interfaces, controlling server and user states and integrating APIs. I love using clear, effective code to make designs come to life.
+              I can contribute to both frontend and backend portions of projects because I also have foundational knowledge  backend development and experience in MERN stack
+            </p>
+          </li>
+          <li>
+            <p>
+              I'm currently working in debogsoft pvt ltd
+            </p>
+          </li>
+          <li>
+            <p>
+              I'm open to new opportunities and committed to continuous learning 
+            </p>
+          </li>
+        </ul>
+      </div>
 
 - 📫 How to reach me limbujenish24@gmail.com
 
