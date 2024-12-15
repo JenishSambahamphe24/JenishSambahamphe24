@@ -1,7 +1,7 @@
 
  <div>
         <h1>About me</h1>
-        <ul class='padding:0'>
+        <ul padding='0'>
           <li>
             <p>
               Hi, I'm a front-end developer with a focus on creating user-friendly interfaces, controlling server and user states and integrating APIs. I love using clear, effective code to make designs come to life.
