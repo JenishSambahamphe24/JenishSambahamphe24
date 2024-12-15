@@ -1,6 +1,6 @@
 
  <div>
-        <h1>About me</h1>
+        <h1>💫 About me</h1>
         <ul padding='0'>
           <li>
             <p>
