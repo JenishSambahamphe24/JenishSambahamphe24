@@ -1,54 +1,18 @@
-
- <div>
-        <h1>💫 About me</h1>
-        <ul padding='0'>
-          <li>
-            <p>
-              Hi, I'm a front-end developer with a focus on creating user-friendly interfaces, controlling server and user states and integrating APIs. I love using clear, effective code to make designs come to life.
-            </p>
-          </li>
-          <li>
-            <p>
-              I can contribute to both frontend and backend portions of projects because I also have foundational knowledge  backend development and experience in MERN stack
-            </p>
-          </li>
-          <li>
-            <p>
-              I'm currently working at Debugsoft pvt. ltd.  I'm open to new opportunities and committed to continuous learning
-            </p>
-          </li>
-        </ul>
-      </div>
-            <div class="wrapper">
-        <h2>📫  How to Reach Me</h2>
-        <div style="background-color: aqua; padding: 10px;">
-          <p >
-            <a href="https://www.linkedin.com/in/jenish-sambahamphe-822538236/" target="_blank" rel="noreferrer"> <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png"
-              alt="LinkedIn"
-              width="60"
-              height="20"
-              style="object-fit: cover;"
-            />
-            </a>
-          </p>
-        </div>
-    </div>
-  
-     
+# 💫 About Me:
+Hi, I'm a front-end developer with a focus on creating user-friendly interfaces, controlling server and user states and integrating APIs. I love using clear, effective code to make designs come to life.<br>I can contribute to both frontend and backend portions of projects because I also have foundational knowledge backend development and experience in MERN stack.<br>I'm currently working at Debugsoft pvt. ltd. I'm open to new opportunities and committed to continuous learning
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jenish Sambahamphe) 
 
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JenishSambahamphe24 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JenishSambahamphe24 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JenishSambahamphe24 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+---
+[![](https://visitcount.itsvg.in/api?id=JenishSambahamphe24 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-
- </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JenishSambahamphe24&show_icons=true&locale=en&layout=compact" alt="JenishSambahamphe24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JenishSambahamphe24&show_icons=true&locale=en" alt="JenishSambahamphe24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JenishSambahamphe24&" alt="JenishSambahamphe" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
