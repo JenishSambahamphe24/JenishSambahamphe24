@@ -1,6 +1,6 @@
 <div>
-  <h1>💫 About me</h1>
-  <ul padding='0'>
+  <h2>💫 About me</h2>
+  <ul >
     <li>
       <p>
         Hi, I'm a front-end developer with a focus on creating user-friendly interfaces, controlling server and user states and integrating APIs. I love using clear, effective code to make designs come to life.
