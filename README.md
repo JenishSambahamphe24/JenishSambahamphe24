@@ -1,21 +1,20 @@
 
-  <div>
+ <div>
         <h1>About me</h1>
-        <ul>
+        <ul class='padding:0'>
           <li>
             <p>
               Hi, I'm a front-end developer with a focus on creating user-friendly interfaces, controlling server and user states and integrating APIs. I love using clear, effective code to make designs come to life.
+            </p>
+          </li>
+          <li>
+            <p>
               I can contribute to both frontend and backend portions of projects because I also have foundational knowledge  backend development and experience in MERN stack
             </p>
           </li>
           <li>
             <p>
-              I'm currently working in debogsoft pvt ltd
-            </p>
-          </li>
-          <li>
-            <p>
-              I'm open to new opportunities and committed to continuous learning 
+              I'm currently working at Debugsoft pvt. ltd.  I'm open to new opportunities and committed to continuous learning
             </p>
           </li>
         </ul>
