@@ -19,14 +19,15 @@
           </li>
         </ul>
       </div>
-  <div>
+      
+  <div class="ReachMe_wrapper">
         <h2>📫  How to Reach Me</h2>
         <div>
           <p align="left">
             <a href="https://www.linkedin.com/in/jenish-sambahamphe-822538236/" target="_blank" rel="noreferrer"> <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png"
               alt="LinkedIn"
-              width="40"
+              width="60"
               height="20"
               style="object-fit: cover;"
             />
