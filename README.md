@@ -19,11 +19,11 @@
           </li>
         </ul>
       </div>
-<div>
-        <h1>📫  How to Reach Me</h1>
+  <div>
+        <h2>📫  How to Reach Me</h2>
         <div>
           <p align="left">
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+          <a href="https://www.linkedin.com/in/jenish-sambahamphe-822538236/" target="_blank" rel="noreferrer"> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt="linkedin" width="40" height="20"/>
           </p>
         </div>
       </div>
