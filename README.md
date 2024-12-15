@@ -23,16 +23,8 @@
   <div class="ReachMe_wrapper">
         <h2>📫  How to Reach Me</h2>
         <div>
-          <p align="left">
-            <a href="https://www.linkedin.com/in/jenish-sambahamphe-822538236/" target="_blank" rel="noreferrer"> <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png"
-              alt="LinkedIn"
-              width="60"
-              height="20"
-              style="object-fit: cover;"
-            />
-            </a>
-          </p>
+          ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subodh-poudel) 
         </div>
       </div>
 
