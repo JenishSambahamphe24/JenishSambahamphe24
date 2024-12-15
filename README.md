@@ -19,11 +19,10 @@
           </li>
         </ul>
       </div>
-       <div class="wrapper">
-      <div>
+           <div class="wrapper">
         <h2>📫  How to Reach Me</h2>
-        <div>
-          <p style="background-color: aqua;">
+        <div style="background-color: aqua;">
+          <p >
             <a href="https://www.linkedin.com/in/jenish-sambahamphe-822538236/" target="_blank" rel="noreferrer"> <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png"
               alt="LinkedIn"
@@ -34,7 +33,6 @@
             </a>
           </p>
         </div>
-      </div>
     </div>
   
      
