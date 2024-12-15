@@ -21,7 +21,7 @@
       </div>
               <div class="wrapper">
         <h2>📫  How to Reach Me</h2>
-        <div style="background-color: aqua; padding: 10px;">
+        <div >
           <p >
             <a href="https://www.linkedin.com/in/jenish-sambahamphe-822538236/" target="_blank" rel="noreferrer"> <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png"
